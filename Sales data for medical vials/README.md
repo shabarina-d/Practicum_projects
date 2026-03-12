@@ -13,6 +13,9 @@
 - провела интервью и составила ТЗ;
 - разработала дашборд в DataLens.
 
+#### Инструменты:
+Google Docs, DataLens
+
 **ТЗ в Google Docs:** https://docs.google.com/spreadsheets/d/1UU_xuZIhfFkPbugBdfo9AXX12vuby2L-/edit?gid=482946818#gid=482946818
 **Дашборд DataLens:** https://datalens.yandex/49u48qw4vqryp?tab=2eD
 
