@@ -17,4 +17,5 @@
 Google Docs, Superset
 
 **Основные ссылки к проекту "Аналитический дашборд электронной коммерции":**
+
 https://docs.google.com/document/d/10HtSLD5-gk-INQkz78NAu3b_WmwipsqD_xug2wUscSM/edit?tab=t.0
